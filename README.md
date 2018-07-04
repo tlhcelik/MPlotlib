@@ -38,6 +38,12 @@ mp.set_plot_name("plot_name");
 mp.set_grid(true); // open grid
 mp.set_grid(false); // close grid, default use
 ```
+_Grid Close_
+![fig 1.](https://github.com/tlhcelik/MPlotlib/blob/master/pics/no_grid.png)
+
+_Grid Open_
+![fig 2.](https://github.com/tlhcelik/MPlotlib/blob/master/pics/yes_grid.png)
+
 **Setting max values**
 ```c
 mp.set_max(maximum_x_value, maximum_y_values);
