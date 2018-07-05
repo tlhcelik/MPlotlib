@@ -7,7 +7,7 @@ Mathematical plotting library use to Bitmap
 
 int main()
 {
-	MPlotlib mp2("m2");		
+	MPlotlib mp2("m2"); // set bitmap file name		
 	mp2.set_max(200 ,200); // bitmap file width and height	
 	mp2.set_grid(true); // open grid
 
